@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <p align="left">
 <img alt="ouuan's github stats" height='230' width='500' src="https://github-readme-stats.vercel.app/api?username=iSozL&show_icons=true&include_all_commits=true&theme=dark">
-<img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSozL&theme=dark">
+<img alt="ouuan's github stats" height='230' width='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSozL&theme=dark">
 </p>
